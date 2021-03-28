@@ -1,0 +1,77 @@
+/*
+Lab 3 CSS styles
+CSS styles for Ultimate frisbee page
+*/
+
+body {
+  color: rgb(187, 93, 4);
+  font: 20pt bold "Tahoma", "Arial", sans-serif;
+  background-repeat: no-repeat;
+  background-image:url("coffee3.png");
+  background-size: cover;
+}
+
+footer {
+   text-align: center;
+   font-size: small;
+}
+
+li{
+	list-style-type: square;
+}
+
+header{
+	text-align: center;
+}
+
+.altrow:nth-child(2) {
+	background-color: #daeea4;
+}
+.altrow:nth-child(3) {
+  background-color: #fdd5a9;
+}
+.altrow:nth-child(4) {
+  background-color: #a4e9e9;
+}
+
+img{
+  border: 2px solid #2e1405;
+}
+
+th, td 
+{
+	text-align: center;
+	border: 1px solid #2e1405;
+	padding: .2em .1em .2em .5em;
+	text-align: left;
+	vertical-align: middle;
+}
+th{
+	background-color: #ecd9c6;
+	text-align:center;
+	color:#2e1405;
+}
+h1.first{
+	text-align:center;
+  	font: italic bold Georgia;
+  	font-size: 40px;
+	color:#2e1405
+}
+h2.first{
+	font: italic bold Georgia;
+	font-size: 25px;
+	color:#306868
+}
+h2.second{
+	font: italic bold Georgia;
+  	font-size: 25x;
+	color:#cadf52;
+}
+h2.third{
+  	font: italic bold Georgia;
+  	font-size: 25px;
+	color:#e6ad72;
+}
+h2,h1{
+background-color: #f2e6d9;
+}
