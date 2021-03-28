@@ -59,17 +59,17 @@ h1.first{
 }
 h2.first{
 	font: italic bold;
-	font-size: 25px;
+	font-size: 28px;
 	color:#306868
 }
 h2.second{
 	font: italic bold;
-  	font-size: 25x;
+  	font-size: 28x;
 	color:#cadf52;
 }
 h2.third{
   	font: italic bold;
-  	font-size: 25px;
+  	font-size: 28px;
 	color:#e6ad72;
 }
 h2,h1{
