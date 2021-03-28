@@ -5,7 +5,7 @@ CSS styles for Ultimate frisbee page
 
 body {
   color: rgb(187, 93, 4);
-  font: 20pt bold "Tahoma", "Arial", sans-serif;
+  font: 20pt bold;
   background-repeat: no-repeat;
   background-image:url("coffee3.png");
   background-size: cover;
@@ -53,22 +53,22 @@ th{
 }
 h1.first{
 	text-align:center;
-  	font: italic bold Georgia;
+  	font: italic bold;
   	font-size: 40px;
 	color:#2e1405
 }
 h2.first{
-	font: italic bold Georgia;
+	font: italic bold;
 	font-size: 25px;
 	color:#306868
 }
 h2.second{
-	font: italic bold Georgia;
+	font: italic bold;
   	font-size: 25x;
 	color:#cadf52;
 }
 h2.third{
-  	font: italic bold Georgia;
+  	font: italic bold;
   	font-size: 25px;
 	color:#e6ad72;
 }
