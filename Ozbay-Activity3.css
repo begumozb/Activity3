@@ -54,22 +54,22 @@ th{
 h1.first{
 	text-align:center;
   	font: italic bold;
-  	font-size: 40px;
+  	font-size: x-large;
 	color:#2e1405
 }
 h2.first{
 	font: italic bold;
-	font-size: 28px;
+	font-size: large;
 	color:#306868
 }
 h2.second{
 	font: italic bold;
-  	font-size: 28x;
+  	font-size: large;
 	color:#cadf52;
 }
 h2.third{
   	font: italic bold;
-  	font-size: 28px;
+  	font-size: large;
 	color:#e6ad72;
 }
 h2,h1{
